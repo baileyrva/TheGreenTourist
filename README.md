@@ -20,3 +20,7 @@ The application is deployed using github and heroku. The main pages can be opene
 ## Credits
 
 Joe Bailey, Nathan Olenik, and Rob Quinn created this by focusing on different parts of the overall application. Joe focused on the data entry, presentation, get commands, and tweaking the backend. Nathan developed the majority of the frontend and researched troubleshooting techniques for the backend of the application. Rob did a lot of the routing, database manipulation, and overall setup of the backend of the application. 
+
+![image](https://user-images.githubusercontent.com/56370824/76029503-9a359e80-5f02-11ea-8c5f-389c8a5bdc34.png)(/br)
+
+![image](https://user-images.githubusercontent.com/56370824/76029610-d36e0e80-5f02-11ea-856d-5494cbca488f.png)
